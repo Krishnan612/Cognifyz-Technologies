@@ -1,0 +1,27 @@
+[
+  {
+    "q": "Which gas do plants take in for photosynthesis?",
+    "opts": {"a": "Oxygen", "b": "Carbon dioxide", "c": "Nitrogen", "d": "Hydrogen"},
+    "ans": "b"
+  },
+  {
+    "q": "What is the largest ocean on Earth?",
+    "opts": {"a": "Atlantic", "b": "Indian", "c": "Arctic", "d": "Pacific"},
+    "ans": "d"
+  },
+  {
+    "q": "How many months have 30 days?",
+    "opts": {"a": "4", "b": "6", "c": "11", "d": "7"},
+    "ans": "a"
+  },
+  {
+    "q": "What is the boiling point of water at sea level in Celsius?",
+    "opts": {"a": "90", "b": "100", "c": "120", "d": "212"},
+    "ans": "b"
+  },
+  {
+    "q": "Which element has the chemical symbol 'O'?",
+    "opts": {"a": "Gold", "b": "Oxygen", "c": "Silver", "d": "Iron"},
+    "ans": "b"
+  }
+]
