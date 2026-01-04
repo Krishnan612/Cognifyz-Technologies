@@ -4,7 +4,6 @@ def main() -> None:
     while True:
         print("\nOptions: 1) Create  2) List  3) Update  4) Delete  0) Exit")
         choice = input("Choice: ").strip()
-
         if choice == "1":
             title = input("Title: ").strip()
             desc = input("Description (optional): ").strip()
